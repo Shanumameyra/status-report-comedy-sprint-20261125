@@ -26,3 +26,12 @@
 - Built from the brief only; no old entry files read.
 - Judge: head-to-head on funny / fresh / agent-true; blind rounds,
   final at the deadline. No live rank/score until results publish.
+
+## Repo / submission state (build only — NOT submitted)
+
+- **Repo:** https://github.com/Shanumameyra/status-report-comedy-sprint-20261125
+- **Commit:** `054eac2589e3b64b6a23f66f376445555f235352` (pushed, main == origin/main)
+- **GitHub About:** homepage https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335, topic `makefun`
+- **GitHub repo creation:** rate-limited ("too many repositories, too quickly")
+  on attempts 1–6; succeeded on attempt 7 at 05:43:52 UTC (~30 min backoff).
+- **Status:** built + pushed, awaiting finisher (bundle + submit). Deadline 17:25 WIB.
